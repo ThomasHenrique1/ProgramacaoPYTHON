@@ -1,0 +1,15 @@
+AULA 15
+
+Material de apoio -  Slide e imagens.
+
+Morphologia matematica(operações c/ conjuntos,união,interseção,diferença)
+"Lembra a filtragem espacial" 
+Elemento estruturante -> Parece o kernel
+
+
+
+
+
+Morphologia de imagens(na pratica,geralmente é pré-processamento)
+
+Morphologia = Transformação de imagens
